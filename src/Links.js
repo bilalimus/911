@@ -7,4 +7,8 @@ export const myApps = [
       name: "VNC",
       link: "https://app.box.com/s/ejkunvp72dlnewvtap6h3c1okic98rew",
     },
+  {
+    name: "1C",
+    link: "https://drive.google.com/drive/folders/1A7H5HDB1dTiT3h-JOE_KrIsxxt6siIcp?usp=sharing",
+  },
   ];
