@@ -17,7 +17,7 @@ export const myApps = [
   },
   {
     name: "Activator-30.01.2024",
-    link: "https://terabox.com/s/15rlBo21_Mv4pD4uctUIULA",
+    link: "https://app.box.com/s/g2kko8ih308jsck4t88hcfsetfecl8znhttps://app.box.com/s/g2kko8ih308jsck4t88hcfsetfecl8zn",
   },
 ];
 
