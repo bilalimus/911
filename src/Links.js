@@ -17,7 +17,11 @@ export const myApps = [
   },
   {
     name: "Activator-30.01.2024",
-    link: "https://app.box.com/s/g2kko8ih308jsck4t88hcfsetfecl8znhttps://app.box.com/s/g2kko8ih308jsck4t88hcfsetfecl8zn",
+    link: "https://app.box.com/s/g2kko8ih308jsck4t88hcfsetfecl8zn",
+  },
+  {
+    name: "Winrar",
+    link: "https://app.box.com/s/5loc0df6gph4vj1dzciid9ssb7dhy6ze",
   },
 ];
 
